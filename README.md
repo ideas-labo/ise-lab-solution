@@ -1,2 +1,2 @@
-# ise-lab-solution
-ISE labs solutions
+# ISE-solution
+The solutions for labs from the Intelligent Software Engineering module
